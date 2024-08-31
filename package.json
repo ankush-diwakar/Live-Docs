@@ -11,7 +11,7 @@
   "dependencies": {
     "@clerk/nextjs": "^5.3.6",
     "@clerk/themes": "^2.1.24",
-    "@lexical/react": "^0.17.1",
+    "@lexical/react": "^0.16.1",
     "@lexical/rich-text": "^0.17.1",
     "@liveblocks/client": "^2.6.0",
     "@liveblocks/node": "^2.6.0",
