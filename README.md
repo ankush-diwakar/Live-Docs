@@ -1,7 +1,7 @@
 <div align="center">
 
    <br />
-       <img src="https://ibb.co/GnQyPx5" alt="banner" />
+     [![Screenshot-113.png](https://i.postimg.cc/nVY6H4qt/Screenshot-113.png)](https://postimg.cc/K4j9fg99)
  
   <br />
   
