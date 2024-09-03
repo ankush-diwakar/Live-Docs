@@ -1,7 +1,7 @@
 <div align="center">
 
    <br />
-      <img src="https://imgtr.ee/image/hriUBG" alt="Project Banner">
+      <img src="https://cdn.discordapp.com/attachments/1071017991203991604/1280407894780543006/Screenshot_113.png?ex=66d7f846&is=66d6a6c6&hm=b44aaaaf0ccad7c6837753c6b448d4089725301a270c7c1ee5e0a1bb5d120533&" alt="Project Banner">
  
   <br />
   
